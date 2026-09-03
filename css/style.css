@@ -23,3 +23,13 @@ padding: 50px;
     margin-right: 300px;
     margin-left: 300px;
 }
+.photo {
+text-align: center;
+}
+.photo img {
+width: 320px;
+}
+.info {
+width: 620px;
+margin: 40px auto 0 auto;
+}
